@@ -15,7 +15,7 @@
 
 I've been programming since I was a kid. These days most of what I write lives on my own server: a Raspberry Pi that runs my home automation system, my cloud storage and the services around them, all self hosted and built from scratch.
 
-## ☁️ TPCloud — my personal cloud
+## ☁️ TPCloud: my personal cloud
 
 [**tpcloud**](https://github.com/mtaibo/tpcloud) is the gateway to everything I self host under `migueltaibo.com`. One Caddy gateway behind a Cloudflare Tunnel, one auth service with a single sign-on session across every subdomain, and a set of modules that plug into it.
 
